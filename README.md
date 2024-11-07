@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SyedSabit
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👋 Hi, i will help you to find the hidden solution in the raw data by 
+- 👀 Connecting Dots.....
+- 🌱Cintinuosely learning Data analytics...
 - 
 - 
 
